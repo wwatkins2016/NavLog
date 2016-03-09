@@ -2,8 +2,6 @@ package navlog;
 
 public class NavLog
 {	
-	
-	
 	private double computeMiles(int Ndeg, int Nmin, int Nsec, 
 			int Wdeg, int Wmin, int Wsec)
 	{
